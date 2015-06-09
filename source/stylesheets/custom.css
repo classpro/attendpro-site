@@ -1,0 +1,58 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: font-weight: 300;
+  font-size: 22px;
+}
+
+.navbar-inverse {
+  height: 75px;
+  background: #2A2C34 none repeat scroll 0%;
+  border:0;
+}
+
+.jumbotron {
+  color: #fff;
+  text-align: center;
+}
+
+.bg-1{
+  background: url(/images/2.jpg);
+  background-size: 100%;
+}
+
+.jumbotron h1{
+  font-size: 67.3px;
+}
+
+.jumbotron p{
+  font-size: 25px;
+}
+
+
+footer {
+background: #2A2C34 none repeat scroll 0% 0%;
+font-size: 16px;
+padding: 30px 0px;
+margin-top: 100px;
+color: #898B91;
+}
+
+h2{
+  font-size: 66px;
+}
+
+h3{
+  font-size: 43px;
+}
+h4{
+  font-size: 30px;
+}
+
+.about p{
+  font-size: 18px;
+  line-height: 32px;
+}
+
+.about .fa-circle {
+  color: #E8643E;
+}
