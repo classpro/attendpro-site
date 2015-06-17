@@ -17,7 +17,7 @@ body {
 
 .bg-1{
   background: url(/images/2.jpg);
-  background-size: 100%;
+  background-size: 100% 100%;
 }
 
 .jumbotron h1{
@@ -54,5 +54,14 @@ h4{
 }
 
 .about .fa-circle {
+  color: #E8643E;
+}
+
+.testimonial p {
+  font-size: 18px;
+  line-height: 32px;
+}
+
+.testimonial .media-heading {
   color: #E8643E;
 }
