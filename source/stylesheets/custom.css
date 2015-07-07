@@ -65,3 +65,59 @@ h4{
 .testimonial .media-heading {
   color: #E8643E;
 }
+
+#pricing{
+    background-color: #fff;
+  border: 1px solid #E6E6E6;
+  border-radius: 5px;
+  box-shadow: 0px 0px 2px 0px rgba(181, 181, 181, 0.3);
+  padding: 20px 40px;
+  text-align: center;
+  color: #E8643E;
+}
+
+#pricing .dollar {
+  font-size: 19px;
+  position: relative;
+  top:-10px;
+}
+
+#pricing .price {
+  font-size: 49px;
+}
+
+#pricing .period {
+  font-size: 17px;
+  position: relative;
+  top: -8px;
+  margin-left: 4px;
+}
+
+#pricing .plan-name {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 400;
+  color: #777;
+  border-bottom: 1px solid #d5d5d5;
+  padding-bottom: 15px;
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 8px;
+}
+
+#pricing .specs {
+  margin-top: 20px;
+}
+
+#pricing .specs .spec {
+  font-size: 20px;
+  color: #474747;
+  text-align: center;
+  font-weight: 300;
+  margin-bottom: 15px;
+}
+
+#pricing .specs .spec .variable {
+  color: #E8643E;
+  font-weight: 400;
+}
