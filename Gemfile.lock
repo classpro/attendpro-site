@@ -70,7 +70,7 @@ GEM
       servolux
       tilt (~> 2.0.9)
       uglifier (~> 3.0)
-    middleman-deploy (1.0.0)
+    middleman-deploy (2.0.0.pre.alpha)
       middleman-core (>= 3.2)
       net-sftp
       ptools
@@ -110,17 +110,16 @@ GEM
       thread_safe (~> 0.1)
     uglifier (3.2.0)
       execjs (>= 0.3.0, < 3)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  listen
   middleman (~> 4.3, >= 4.3.3)
-  middleman-deploy (~> 1.0)
+  middleman-deploy (~> 2.0.0.pre.alpha)
   middleman-livereload (~> 3.4, >= 3.4.6)
   tzinfo-data
-  wdm (~> 0.1.1)
 
 BUNDLED WITH
    1.17.1
